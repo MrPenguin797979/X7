@@ -601,22 +601,6 @@ window.addEventListener("load", function () {
       navbarMenuMobile
         .querySelector(".menu-item.home > a")
         .classList.add("active");
-    } else if (checkVisible($("#anh"))) {
-      menuLinks.forEach((link) => link.classList.remove("active"));
-      navbarMenuPC
-        .querySelector(".menu-item.anh > a")
-        .classList.add("active");
-      navbarMenuMobile
-        .querySelector(".menu-item.anh > a")
-        .classList.add("active");
-    } else if (checkVisible($("#event"))) {
-      menuLinks.forEach((link) => link.classList.remove("active"));
-      navbarMenuPC
-        .querySelector(".menu-item.event > a")
-        .classList.add("active");
-      navbarMenuMobile
-        .querySelector(".menu-item.event > a")
-        .classList.add("active");
     } else if (checkVisible($("#teacher"))) {
       menuLinks.forEach((link) => link.classList.remove("active"));
       navbarMenuPC
@@ -632,6 +616,14 @@ window.addEventListener("load", function () {
         .classList.add("active");
       navbarMenuMobile
         .querySelector(".menu-item.member > a")
+        .classList.add("active");
+    } else if (checkVisible($("#anh"))) {
+      menuLinks.forEach((link) => link.classList.remove("active"));
+      navbarMenuPC
+        .querySelector(".menu-item.anh > a")
+        .classList.add("active");
+      navbarMenuMobile
+        .querySelector(".menu-item.anh > a")
         .classList.add("active");
     }
   });
