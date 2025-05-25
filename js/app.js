@@ -170,7 +170,7 @@ window.addEventListener("load", function () {
       "Môn học yêu thích": "Toán",
       "Trường cấp 3 muốn vô": "LQĐ (chuyên Toán)",
       "Ước mơ": "Thủ khoa chuyên Toán",
-      Thích: "Toán học, Nguyệt Anh",
+      Thích: "Toán học",
       Ghét: "Lolicon",
       Ảnh: "https://cdn.glitch.global/8c8e1a06-fd94-444f-ad06-28a9540b1002/VietHoan?v=1747672601204",
       "Ảnh 2": "https://cdn.glitch.global/8c8e1a06-fd94-444f-ad06-28a9540b1002/VietHoan2?v=1747671989000",
