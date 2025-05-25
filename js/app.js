@@ -285,7 +285,7 @@ window.addEventListener("load", function () {
       "Ngày sinh": "09/08/2010",
       "Sở thích": "Nghe nhạc, bóng rổ",
       "Môn học yêu thích": "Tiếng Anh",
-      "Trường cấp 3 muốn vô": "LQĐ (chuyên Anh), L2T",
+      "Trường cấp 3 muốn vô": "LQĐ (chuyên Anh)",
       "Ước mơ": "Làm vợ tỷ phú, đi du học",
       Thích: "Crush, Lía, taekwondo, du lịch",
       Ghét: "Sự lạnh nhạt của cr, gián, nhện, mấy con nhiều chân",

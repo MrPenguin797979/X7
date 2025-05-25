@@ -284,8 +284,7 @@ body::-webkit-scrollbar-thumb {
 
 .modal .modal-content {
   width: 75%;
-  /* height: fit-content; */
-  max-height: 90%;
+  max-height: 90vh;
   background-color: white;
   position: relative;
   border-radius: 2rem;
@@ -307,6 +306,7 @@ body::-webkit-scrollbar-thumb {
 .modal .modal-info {
   line-height: 1.8;
   flex: 1;
+  overflow-y: auto;
 }
 
 .modal .modal-image {
@@ -389,7 +389,6 @@ body::-webkit-scrollbar-thumb {
     flex-direction: column-reverse;
     gap: 2.5rem;
     overflow-x: hidden;
-    overflow-y: scroll;
   }
 
   .modal .modal-info,
