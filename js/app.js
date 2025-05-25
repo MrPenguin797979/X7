@@ -18,7 +18,7 @@ window.addEventListener("load", function () {
     },
     {
       Tên: "Đoàn Quang Đức Bảo",
-      "Biệt danh": "7 gao",
+      "Biệt danh": "=))",
       "Ngày sinh": "29/01/2010",
       "Sở thích": "Chơi game, học Anh",
       "Môn học yêu thích": "Tiếng Anh",
