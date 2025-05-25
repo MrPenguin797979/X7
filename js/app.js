@@ -787,16 +787,16 @@ window.addEventListener("load", function () {
   const prev = document.getElementById("prev");
   const next = document.getElementById("next");
   const dotsContainer = document.getElementById("dots");
-  const slider = ["/images/Slider/1.jpg", 
-    "/images/Slider/2.jpg", 
-    "/images/Slider/3.jpg", 
-    "/images/Slider/4.jpg", 
-    "/images/Slider/5.jpg", 
-    "/images/Slider/6.jpg", 
-    "/images/Slider/7.jpg", 
-    "/images/Slider/8.jpg", 
-    "/images/Slider/9.jpg", 
-    "/images/Slider/10.jpg"];
+  const slider = ["/images/Slider/1.JPG", 
+    "/images/Slider/2.JPG", 
+    "/images/Slider/3.JPG", 
+    "/images/Slider/4.JPG", 
+    "/images/Slider/5.JPG", 
+    "/images/Slider/6.JPG", 
+    "/images/Slider/7.JPG", 
+    "/images/Slider/8.JPG", 
+    "/images/Slider/9.JPG", 
+    "/images/Slider/10.JPG"];
   const totalSlides = slider.length;
   let currentIndex = 0;
   let startX = 0;
