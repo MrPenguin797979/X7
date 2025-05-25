@@ -256,7 +256,7 @@ window.addEventListener("load", function () {
     {
       Tên: "Trương Đinh Tuấn Kiệt",
       "Biệt danh": "Lặc",
-      "Ngày sinh": "",
+      "Ngày sinh": "08/03/2010",
       "Sở thích": "Nhắn tin với gái",
       "Môn học yêu thích": "Tiếng Anh",
       "Trường cấp 3 muốn vô": "LQĐ",
