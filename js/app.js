@@ -283,7 +283,7 @@ window.addEventListener("load", function () {
       Tên: "Hà Dương Uyển Minh",
       "Biệt danh": "Sú",
       "Ngày sinh": "09/08/2010",
-      "Sở thích": "Nghe nhạc, bóng rổ",
+      "Sở thích": "Nghe nhạc, bóng rổ, violin",
       "Môn học yêu thích": "Tiếng Anh",
       "Trường cấp 3 muốn vô": "LQĐ (chuyên Anh)",
       "Ước mơ": "Làm vợ tỷ phú, đi du học",
